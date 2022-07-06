@@ -8,7 +8,7 @@ Hi <a href="https://www.linkedin.com/in/gheorghe-emilian-dragan/"><img src="http
 Backend Engineer
 ----------------
 
-I've been coding since 2012. Although I'm more interested in back-end development, I also worked as a full-stack developer.
+I've been coding since 2012. I'm passionate about e-commerce and complex applications.
 
 * 🌍  I'm based in Bucharest, Romania
 * ✉️  You can contact me at [https://www.linkedin.com/in/gheorghe-emilian-dragan/](mailto:https://www.linkedin.com/in/gheorghe-emilian-dragan/)
