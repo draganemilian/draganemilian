@@ -12,7 +12,7 @@ I've been coding since 2012. I'm passionate about e-commerce and complex applica
 
 * 🌍  I'm based in Bucharest, Romania
 * ✉️  You can contact me at [https://www.linkedin.com/in/gheorghe-emilian-dragan/](mailto:https://www.linkedin.com/in/gheorghe-emilian-dragan/)
-* 🤝  I'm open to collaborating on electric vehicles and drone applications
+* 🤝  I'm open to collaborate on all aplications based on NodeJs and NestJs
 
 ### Skills
 
