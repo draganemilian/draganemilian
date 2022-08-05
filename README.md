@@ -5,7 +5,7 @@
 Hi <a href="https://www.linkedin.com/in/gheorghe-emilian-dragan/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> My name is [Emilian](https://www.linkedin.com/in/gheorghe-emilian-dragan/)
 =======================
 
-Backend Engineer
+Fullstack Engineer
 ----------------
 
 I've been coding since 2012. I'm passionate about e-commerce and complex applications.
